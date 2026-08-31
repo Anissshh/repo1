@@ -9,6 +9,7 @@ rgs = {
   }
 }
 
+
 vnets = {
   vnet1 = {
     name                = "vnet-chor-dev"
